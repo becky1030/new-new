@@ -15,7 +15,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "dino-db": "^0.1.3",
-    "homepage": " https://github.com/becky1030/final-nyc-website",
     "html-webpack-plugin": "^5.0.0-alpha.17",
     "is-dinosaur": "^1.0.0",
     "mapbox-gl": "^2.14.1",
@@ -64,5 +63,6 @@
   "devDependencies": {
     "@iconify/react": "^4.1.0",
     "gh-pages": "^5.0.0"
-  }
+  },
+  "homepage": " https://becky1030.github.io/new-new"
 }
