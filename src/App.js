@@ -35,7 +35,7 @@ function App() {
   <source src="../public/bump.mp3" type="audio/mp3">
 </audio> */}
 
-      <Router>
+      <Router basename="/new-new">
         <Navbar />
         <Routes>
           {/* <Route path="/" exact component={Home} /> */}
