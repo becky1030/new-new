@@ -23,7 +23,7 @@ import "mapbox-gl/dist/mapbox-gl.css";
 // import ReactAudioPlayer from "react-audio-player";
 // add audio loop
 
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 // Switch is being replaced by Routes in the latest React version
 
 // import Dino from "./pages/Recommends";
