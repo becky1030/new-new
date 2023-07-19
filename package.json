@@ -64,5 +64,5 @@
     "@iconify/react": "^4.1.0",
     "gh-pages": "^5.0.0"
   },
-  "homepage": "https://becky1030.github.io/new-new"
+  "homepage": "."
 }
